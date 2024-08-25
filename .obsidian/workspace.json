@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "a6a28862825944c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0f3391f2ef23f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d580a9fe674054f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b20b6cb6ff3e54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b81ed062f48d2c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b3d1f766dbca92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d36df55da0729aa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c28bed8bedb9b29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "186068ff6bbd6f79",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0db120ff146de2b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3223e8fb85b9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e12a275b895cc27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ToDo/1-daily.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43713b83a1495f13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ToDo/1-daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4bd13fe44d877ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2669c7f25fff543",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ToDo/1-daily.md"
+              }
+            }
+          },
+          {
+            "id": "4b85649672a8f206",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Insert attachment": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "186068ff6bbd6f79",
+  "lastOpenFiles": [
+    "Entertainment/Illustration/resources.md",
+    "Entertainment/Illustration/notes.md",
+    "Entertainment/Illustration/Drawing Roadmap.md",
+    "Entertainment/Illustration/7figure.png",
+    "Entertainment/Books/resources.md",
+    "Entertainment/Books/list.md",
+    "ToDo/1-daily.md",
+    "ToDo/scratchpad.md",
+    "2024-08-25.md",
+    "ToDo/3-Priority List WEEKLY.md",
+    "Untitled",
+    "Untitled.md",
+    "ToDo/4-Priority List WEEKEND.md",
+    "ToDo/scratchpad-kanban.md",
+    "ToDo/priority-list-template.md",
+    "Programming/list.md",
+    "Self-notes.md",
+    "Untitled 1.md",
+    "ToDo/2-weekend.md",
+    "ToDo/list-weekend.md",
+    "ToDo/list-weekly.md",
+    "ToDo/today.md",
+    "Priority list.md",
+    "Misc/list.md",
+    "Misc/neovim config layout.md",
+    "Misc/scratchpad.md",
+    "Entertainment/Movies-Shows/resources.md",
+    "Entertainment/Movies-Shows/list.md",
+    "christy-clothed-040.jpg",
+    "christy-clothed-037.jpg",
+    "christy-clothed-041.jpg",
+    "christy-clothed-044.jpg",
+    "strong-silhouettes-009.jpg",
+    "strong-silhouettes-015.jpg",
+    "strong-silhouettes-018.jpg",
+    "strong-silhouettes-023.jpg",
+    "Pasted image 20240625113922.png",
+    "general_tasks/LICENSE",
+    "general_tasks",
+    "ToDo",
+    "Misc",
+    "Entertainment/Illustration",
+    "Programming",
+    "Books",
+    "Classes/Embedded Systems",
+    "Classes"
+  ]
+}
